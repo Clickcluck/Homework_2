@@ -1,0 +1,14 @@
+# ignore tmp subdir
+tmp/
+
+# ignore files _old
+*_old
+
+# ignore files _backup
+*_backup
+
+# ignore Thumbs.db
+Thumbs.db
+
+# ignore .DS_store
+.DS_store
